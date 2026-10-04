@@ -1,0 +1,23 @@
+Senior Python & Cloud Backend Engineer
+Location: Remote / San Francisco, CA
+Employment Type: Full-Time
+
+About the Role:
+We are looking for an experienced Senior Python & Cloud Backend Engineer to lead the architecture, design, and development of our distributed cloud platform. You will work with a modern stack to build high-scale microservices, automated pipelines, and mission-critical APIs.
+
+Experience Requirements:
+- 5+ years of professional backend software development experience.
+
+Requirements:
+- Strong proficiency in Python, object-oriented design, and clean architecture.
+- Hands-on experience developing REST APIs using FastAPI, Django, or Flask.
+- Production experience with Docker, Kubernetes, and container orchestration.
+- Cloud experience with AWS (EC2, S3, RDS, Lambda, ECS).
+- Experience with relational databases, specifically PostgreSQL and query optimization.
+- Familiarity with CI/CD automation pipelines and Git.
+- Solid understanding of microservices architecture and system design.
+
+Nice to Have:
+- Experience with Redis caching and distributed task queues.
+- Basic familiarity with frontend frameworks such as React or TypeScript.
+- Bachelor's Degree in Computer Science, Software Engineering, or related technical field.

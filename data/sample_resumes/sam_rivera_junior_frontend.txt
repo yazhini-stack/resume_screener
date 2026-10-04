@@ -1,0 +1,22 @@
+Sam Rivera
+Austin, TX | sam.rivera@webdev.net | (512) 555-4019 | github.com/samrivera-code
+
+Professional Summary
+Enthusiastic Junior Frontend Developer with 1.5 years of experience developing responsive, accessible, and user-centric web applications. Passionate about clean code, component architecture, and modern JavaScript ecosystems.
+
+Skills
+JavaScript, HTML/CSS, React, Tailwind CSS, TypeScript, Node.js, Express.js, Git, REST API, Figma, Agile
+
+Experience
+Frontend Web Developer | Creative Pulse Media | Jan 2023 – Present
+- Developed modular single-page web applications using React, Tailwind CSS, and JavaScript.
+- Collaborated with UI designers in Figma to translate wireframes into pixel-perfect responsive layouts.
+- Integrated RESTful APIs with Node.js and Express to fetch dynamic product catalog data.
+- Improved web vitals page loading speeds by 25% through image optimization and code-splitting.
+
+Junior Web Developer Intern | LaunchPad Studios | Jun 2022 – Dec 2022
+- Maintained client websites using HTML, CSS, and basic JavaScript.
+- Participated in weekly agile standups and code reviews using Git and GitHub.
+
+Education
+Bachelor of Arts in Interactive Media | University of Texas at Austin | 2018 – 2022

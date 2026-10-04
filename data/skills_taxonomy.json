@@ -1,0 +1,128 @@
+{
+  "categories": {
+    "Programming Languages": {
+      "Python": ["python", "python3", "py"],
+      "JavaScript": ["javascript", "js", "ecmascript"],
+      "TypeScript": ["typescript", "ts"],
+      "Java": ["java", "j2ee", "core java"],
+      "C++": ["c++", "cpp"],
+      "C#": ["c#", "csharp", "c sharp"],
+      "C": ["c programming", "ansi c"],
+      "Go": ["golang", "go language"],
+      "Rust": ["rust", "rustlang"],
+      "Ruby": ["ruby", "ruby on rails", "ror"],
+      "PHP": ["php", "php7", "php8"],
+      "Swift": ["swift", "swiftui"],
+      "Kotlin": ["kotlin"],
+      "Scala": ["scala"],
+      "R": ["r language", "r programming"],
+      "SQL": ["structured query language", "pl/sql", "t-sql"],
+      "HTML/CSS": ["html", "html5", "css", "css3"],
+      "Bash": ["bash", "shell scripting", "sh", "zsh"],
+      "Dart": ["dart", "flutter"]
+    },
+    "Frameworks & Libraries": {
+      "React": ["react", "react.js", "reactjs"],
+      "Angular": ["angular", "angularjs", "angular 2+"],
+      "Vue.js": ["vue", "vue.js", "vuejs"],
+      "Next.js": ["next.js", "nextjs"],
+      "Node.js": ["node", "nodejs", "node.js"],
+      "Express.js": ["express", "express.js", "expressjs"],
+      "Django": ["django", "django rest framework", "drf"],
+      "Flask": ["flask"],
+      "FastAPI": ["fastapi", "fast api"],
+      "Spring Boot": ["spring", "spring boot", "springboot"],
+      "ASP.NET": ["asp.net", "dotnet", ".net core", ".net"],
+      "Tailwind CSS": ["tailwind", "tailwindcss"],
+      "Bootstrap": ["bootstrap", "bootstrap5"],
+      "PyTorch": ["pytorch", "torch"],
+      "TensorFlow": ["tensorflow", "tf"],
+      "Keras": ["keras"],
+      "Scikit-Learn": ["scikit-learn", "sklearn"],
+      "Pandas": ["pandas"],
+      "NumPy": ["numpy"],
+      "GraphQL": ["graphql", "apollo graphql"]
+    },
+    "Databases & Caching": {
+      "PostgreSQL": ["postgresql", "postgres", "psql"],
+      "MySQL": ["mysql"],
+      "MongoDB": ["mongodb", "mongo"],
+      "Redis": ["redis"],
+      "SQLite": ["sqlite", "sqlite3"],
+      "Oracle": ["oracle db", "oracle database"],
+      "Microsoft SQL Server": ["mssql", "sql server"],
+      "Elasticsearch": ["elasticsearch", "elastic search", "elk"],
+      "Cassandra": ["cassandra", "apache cassandra"],
+      "DynamoDB": ["dynamodb", "aws dynamodb"],
+      "Snowflake": ["snowflake"],
+      "Neo4j": ["neo4j", "graph database"]
+    },
+    "Cloud & Infrastructure": {
+      "AWS": ["aws", "amazon web services", "ec2", "s3", "lambda"],
+      "Azure": ["azure", "microsoft azure"],
+      "Google Cloud Platform": ["gcp", "google cloud"],
+      "Docker": ["docker", "containerization"],
+      "Kubernetes": ["kubernetes", "k8s"],
+      "Terraform": ["terraform", "iac"],
+      "Ansible": ["ansible"],
+      "Linux": ["linux", "ubuntu", "centos", "redhat"],
+      "Serverless": ["serverless", "aws lambda", "cloud functions"],
+      "Nginx": ["nginx"]
+    },
+    "DevOps & CI/CD": {
+      "CI/CD": ["ci/cd", "continuous integration", "continuous delivery"],
+      "Git": ["git", "github", "gitlab", "version control"],
+      "Jenkins": ["jenkins"],
+      "GitHub Actions": ["github actions", "gh actions"],
+      "GitLab CI": ["gitlab ci"],
+      "Prometheus": ["prometheus"],
+      "Grafana": ["grafana"],
+      "Monitoring": ["monitoring", "datadog", "new relic", "splunk"]
+    },
+    "Data & AI/ML": {
+      "Machine Learning": ["machine learning", "ml"],
+      "Deep Learning": ["deep learning", "dl"],
+      "Natural Language Processing": ["nlp", "natural language processing"],
+      "Computer Vision": ["computer vision", "cv", "opencv"],
+      "Large Language Models": ["llm", "llms", "large language models", "generative ai", "genai", "prompt engineering"],
+      "Data Analysis": ["data analysis", "data analytics", "exploratory data analysis", "eda"],
+      "Data Engineering": ["data engineering", "etl", "data pipelines"],
+      "Apache Spark": ["spark", "apache spark", "pyspark"],
+      "Kafka": ["kafka", "apache kafka"],
+      "Tableau": ["tableau"],
+      "Power BI": ["power bi", "powerbi"]
+    },
+    "Architecture & Methodologies": {
+      "REST API": ["rest", "restful api", "rest api", "rest apis"],
+      "Microservices": ["microservices", "microservice architecture"],
+      "System Design": ["system design", "distributed systems"],
+      "Agile": ["agile", "scrum", "kanban", "sprint planning"],
+      "Test-Driven Development": ["tdd", "test driven development", "unit testing"],
+      "Object-Oriented Programming": ["oop", "object oriented"],
+      "Clean Code": ["clean code", "code review", "design patterns"]
+    },
+    "Security & Networking": {
+      "Cybersecurity": ["cybersecurity", "information security", "infosec"],
+      "OAuth": ["oauth", "oauth2", "jwt", "authentication"],
+      "Network Protocols": ["tcp/ip", "http", "https", "dns", "ssl/tls"],
+      "Penetration Testing": ["penetration testing", "vulnerability assessment"]
+    },
+    "Soft Skills": {
+      "Communication": ["communication", "written communication", "verbal communication"],
+      "Leadership": ["leadership", "team lead", "mentorship", "mentoring"],
+      "Problem Solving": ["problem solving", "analytical skills", "critical thinking"],
+      "Collaboration": ["collaboration", "cross-functional collaboration", "team player"],
+      "Time Management": ["time management", "prioritization", "multitasking"],
+      "Adaptability": ["adaptability", "flexibility", "fast learner"],
+      "Project Management": ["project management", "stakeholder management"]
+    },
+    "Business & Domain": {
+      "Product Management": ["product management", "product roadmap"],
+      "Business Intelligence": ["business intelligence", "bi"],
+      "Financial Analysis": ["financial modeling", "financial analysis"],
+      "Customer Relationship Management": ["crm", "salesforce"],
+      "SEO": ["seo", "search engine optimization"],
+      "Compliance": ["gdpr", "hipaa", "soc2", "compliance"]
+    }
+  }
+}
